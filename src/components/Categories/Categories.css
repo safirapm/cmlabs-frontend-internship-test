@@ -1,0 +1,27 @@
+.card-before {
+  background-color: black;
+}
+
+.overlay-cat-card {
+  background-color: #2d2d2d45;
+  color: #ffffff;
+}
+
+.overlay-cat-card:hover {
+  background: transparent;
+  display: flex;
+  padding: 0px;
+
+  color: transparent;
+  transition: 0.5s ease;
+}
+
+@media screen and (max-width: 600px) {
+  .categories-mobile {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  .card-title {
+    font-size: 14px;
+  }
+}

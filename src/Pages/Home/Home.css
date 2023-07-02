@@ -1,0 +1,10 @@
+.header-home {
+    margin-top: 60px;
+    min-height: 60vh;
+    background-image: linear-gradient(to right, #edededc5, #f4f8e428), url("../../assets/img-header.webp");
+    max-width: 100%;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 2.5rem
+}

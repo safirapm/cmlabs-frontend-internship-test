@@ -1,0 +1,14 @@
+.header-filter {
+    min-height: 20vh;
+    margin-top: 50px;
+}
+
+.overlay-filter-card {
+    background-color: #e8ecd68c;
+}
+
+.overlay-filter-card:hover {
+    color: transparent;
+    background-color: transparent;
+    transition: ease .5s;
+}
